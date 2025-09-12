@@ -1,5 +1,5 @@
 /*
- * Copyright (c) YYYY [Afanasiev Mihaile]. All rights reserved.
+ * Copyright (c) 2025 [Afanasiev Mihaile]. All rights reserved.
  *
  * This software is provided 'as-is', without any express or implied warranty.
  * In no event will the authors be held liable for any damages arising from
