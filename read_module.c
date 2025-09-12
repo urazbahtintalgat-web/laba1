@@ -21,7 +21,7 @@
 #include "stdio.h"
 #include "stddef.h"
 
-#include "read_module.h"
+#include "resistanse.h"
 
 int read_input(float *voltage, float *current, size_t max_length, size_t *read_length)
 {

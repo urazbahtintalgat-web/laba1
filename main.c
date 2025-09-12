@@ -1,6 +1,5 @@
 #include "stdio.h"
-
-#include "read_module.h"
+#include "resistanse.h"
 
 
 #define arraylength(V) (sizeof(V) / sizeof(*(V)))
@@ -23,7 +22,7 @@ int main()
         printf("Initial processing error\n");
     }
 
-    #error TODO
+    
 
     return 0;
 }
