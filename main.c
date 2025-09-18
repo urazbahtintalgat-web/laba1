@@ -16,7 +16,7 @@ int main()
         printf("Input error\n");
         return 1;
     }
-    printf("Read %d rows\n", (int)cnt_read);
+    //printf("Read %d rows\n", (int)cnt_read);
 
     if (calculate_resistance(R, V, I, cnt_read))
     {
