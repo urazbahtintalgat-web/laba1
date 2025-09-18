@@ -3,7 +3,7 @@
 
 #include "stddef.h"
 
-const float EPSILON = 1e-8;
+extern const float EPSILON;
 
 /*
     read input as pairs of floats from stdin.

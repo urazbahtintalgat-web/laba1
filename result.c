@@ -21,9 +21,9 @@ float result(int K, float* resistance) {
     for (int i = 0; i < K; ++i) {
         dev_sum += pow((resistance[i] - resistance_final), 2.0);
     }
-    deviation = sqrt(dev_sum)/K;
+    deviation = sqrt(dev_sum) / K;
 
-    printf("%lf : %lf\n", resistance_final, deviation);
+    printf("resistance final: %lf; deviation = %lf\n", resistance_final, deviation);
 
     return resistance_final;
 }
